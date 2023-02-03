@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C629BAC8298CFF980006351E /* MovieLentaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629BAC7298CFF980006351E /* MovieLentaApp.swift */; };
+		C629BACA298CFF980006351E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629BAC9298CFF980006351E /* ContentView.swift */; };
+		C629BACC298CFF9A0006351E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C629BACB298CFF9A0006351E /* Assets.xcassets */; };
+		C629BACF298CFF9A0006351E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C629BACE298CFF9A0006351E /* Preview Assets.xcassets */; };
+		C629BAD9298CFF9A0006351E /* MovieLentaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629BAD8298CFF9A0006351E /* MovieLentaTests.swift */; };
+		C629BAE3298CFF9A0006351E /* MovieLentaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629BAE2298CFF9A0006351E /* MovieLentaUITests.swift */; };
+		C629BAE5298CFF9A0006351E /* MovieLentaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C629BAE4298CFF9A0006351E /* MovieLentaUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C629BAD5298CFF9A0006351E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C629BABC298CFF980006351E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C629BAC3298CFF980006351E;
+			remoteInfo = MovieLenta;
+		};
+		C629BADF298CFF9A0006351E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C629BABC298CFF980006351E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C629BAC3298CFF980006351E;
+			remoteInfo = MovieLenta;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C629BAC4298CFF980006351E /* MovieLenta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieLenta.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C629BAC7298CFF980006351E /* MovieLentaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLentaApp.swift; sourceTree = "<group>"; };
+		C629BAC9298CFF980006351E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C629BACB298CFF9A0006351E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C629BACE298CFF9A0006351E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C629BAD4298CFF9A0006351E /* MovieLentaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieLentaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C629BAD8298CFF9A0006351E /* MovieLentaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLentaTests.swift; sourceTree = "<group>"; };
+		C629BADE298CFF9A0006351E /* MovieLentaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieLentaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C629BAE2298CFF9A0006351E /* MovieLentaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLentaUITests.swift; sourceTree = "<group>"; };
+		C629BAE4298CFF9A0006351E /* MovieLentaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLentaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C629BAC1298CFF980006351E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BAD1298CFF9A0006351E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BADB298CFF9A0006351E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C629BABB298CFF980006351E = {
+			isa = PBXGroup;
+			children = (
+				C629BAC6298CFF980006351E /* MovieLenta */,
+				C629BAD7298CFF9A0006351E /* MovieLentaTests */,
+				C629BAE1298CFF9A0006351E /* MovieLentaUITests */,
+				C629BAC5298CFF980006351E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C629BAC5298CFF980006351E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C629BAC4298CFF980006351E /* MovieLenta.app */,
+				C629BAD4298CFF9A0006351E /* MovieLentaTests.xctest */,
+				C629BADE298CFF9A0006351E /* MovieLentaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C629BAC6298CFF980006351E /* MovieLenta */ = {
+			isa = PBXGroup;
+			children = (
+				C629BAC7298CFF980006351E /* MovieLentaApp.swift */,
+				C629BAC9298CFF980006351E /* ContentView.swift */,
+				C629BACB298CFF9A0006351E /* Assets.xcassets */,
+				C629BACD298CFF9A0006351E /* Preview Content */,
+			);
+			path = MovieLenta;
+			sourceTree = "<group>";
+		};
+		C629BACD298CFF9A0006351E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C629BACE298CFF9A0006351E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C629BAD7298CFF9A0006351E /* MovieLentaTests */ = {
+			isa = PBXGroup;
+			children = (
+				C629BAD8298CFF9A0006351E /* MovieLentaTests.swift */,
+			);
+			path = MovieLentaTests;
+			sourceTree = "<group>";
+		};
+		C629BAE1298CFF9A0006351E /* MovieLentaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C629BAE2298CFF9A0006351E /* MovieLentaUITests.swift */,
+				C629BAE4298CFF9A0006351E /* MovieLentaUITestsLaunchTests.swift */,
+			);
+			path = MovieLentaUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C629BAC3298CFF980006351E /* MovieLenta */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C629BAE8298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLenta" */;
+			buildPhases = (
+				C629BAC0298CFF980006351E /* Sources */,
+				C629BAC1298CFF980006351E /* Frameworks */,
+				C629BAC2298CFF980006351E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MovieLenta;
+			productName = MovieLenta;
+			productReference = C629BAC4298CFF980006351E /* MovieLenta.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C629BAD3298CFF9A0006351E /* MovieLentaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C629BAEB298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLentaTests" */;
+			buildPhases = (
+				C629BAD0298CFF9A0006351E /* Sources */,
+				C629BAD1298CFF9A0006351E /* Frameworks */,
+				C629BAD2298CFF9A0006351E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C629BAD6298CFF9A0006351E /* PBXTargetDependency */,
+			);
+			name = MovieLentaTests;
+			productName = MovieLentaTests;
+			productReference = C629BAD4298CFF9A0006351E /* MovieLentaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C629BADD298CFF9A0006351E /* MovieLentaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C629BAEE298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLentaUITests" */;
+			buildPhases = (
+				C629BADA298CFF9A0006351E /* Sources */,
+				C629BADB298CFF9A0006351E /* Frameworks */,
+				C629BADC298CFF9A0006351E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C629BAE0298CFF9A0006351E /* PBXTargetDependency */,
+			);
+			name = MovieLentaUITests;
+			productName = MovieLentaUITests;
+			productReference = C629BADE298CFF9A0006351E /* MovieLentaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C629BABC298CFF980006351E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					C629BAC3298CFF980006351E = {
+						CreatedOnToolsVersion = 14.1;
+					};
+					C629BAD3298CFF9A0006351E = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = C629BAC3298CFF980006351E;
+					};
+					C629BADD298CFF9A0006351E = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = C629BAC3298CFF980006351E;
+					};
+				};
+			};
+			buildConfigurationList = C629BABF298CFF980006351E /* Build configuration list for PBXProject "MovieLenta" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C629BABB298CFF980006351E;
+			productRefGroup = C629BAC5298CFF980006351E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C629BAC3298CFF980006351E /* MovieLenta */,
+				C629BAD3298CFF9A0006351E /* MovieLentaTests */,
+				C629BADD298CFF9A0006351E /* MovieLentaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C629BAC2298CFF980006351E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C629BACF298CFF9A0006351E /* Preview Assets.xcassets in Resources */,
+				C629BACC298CFF9A0006351E /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BAD2298CFF9A0006351E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BADC298CFF9A0006351E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C629BAC0298CFF980006351E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C629BACA298CFF980006351E /* ContentView.swift in Sources */,
+				C629BAC8298CFF980006351E /* MovieLentaApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BAD0298CFF9A0006351E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C629BAD9298CFF9A0006351E /* MovieLentaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C629BADA298CFF9A0006351E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C629BAE5298CFF9A0006351E /* MovieLentaUITestsLaunchTests.swift in Sources */,
+				C629BAE3298CFF9A0006351E /* MovieLentaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C629BAD6298CFF9A0006351E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C629BAC3298CFF980006351E /* MovieLenta */;
+			targetProxy = C629BAD5298CFF9A0006351E /* PBXContainerItemProxy */;
+		};
+		C629BAE0298CFF9A0006351E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C629BAC3298CFF980006351E /* MovieLenta */;
+			targetProxy = C629BADF298CFF9A0006351E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C629BAE6298CFF9A0006351E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C629BAE7298CFF9A0006351E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C629BAE9298CFF9A0006351E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MovieLenta/Preview Content\"";
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLenta;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C629BAEA298CFF9A0006351E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MovieLenta/Preview Content\"";
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLenta;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C629BAEC298CFF9A0006351E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLentaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieLenta.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MovieLenta";
+			};
+			name = Debug;
+		};
+		C629BAED298CFF9A0006351E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLentaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieLenta.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MovieLenta";
+			};
+			name = Release;
+		};
+		C629BAEF298CFF9A0006351E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLentaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MovieLenta;
+			};
+			name = Debug;
+		};
+		C629BAF0298CFF9A0006351E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QYNB4U6BR;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trifonov.MovieLentaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MovieLenta;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C629BABF298CFF980006351E /* Build configuration list for PBXProject "MovieLenta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C629BAE6298CFF9A0006351E /* Debug */,
+				C629BAE7298CFF9A0006351E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C629BAE8298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLenta" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C629BAE9298CFF9A0006351E /* Debug */,
+				C629BAEA298CFF9A0006351E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C629BAEB298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLentaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C629BAEC298CFF9A0006351E /* Debug */,
+				C629BAED298CFF9A0006351E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C629BAEE298CFF9A0006351E /* Build configuration list for PBXNativeTarget "MovieLentaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C629BAEF298CFF9A0006351E /* Debug */,
+				C629BAF0298CFF9A0006351E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C629BABC298CFF980006351E /* Project object */;
+}
