@@ -1,0 +1,16 @@
+{
+  "source": "/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/FavoriteMovies/FavoriteMoviesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Favorites"
+      },
+      {
+        "comment": "",
+        "key": "Here you will see your list of favorite movies"
+      }
+    ]
+  },
+  "version": 1
+}

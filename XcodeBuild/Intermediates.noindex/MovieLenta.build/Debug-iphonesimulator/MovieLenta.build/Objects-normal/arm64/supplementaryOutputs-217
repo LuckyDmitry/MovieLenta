@@ -1,0 +1,20 @@
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/DataStore/ValueStore.swift":
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ValueStore.d"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ValueStore.o"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ValueStore.dia"
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ValueStore.swiftdeps"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/UI/ClearView.swift":
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ClearView.o"
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ClearView.swiftdeps"
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ClearView.d"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ClearView.dia"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/Network/MovieLoader.swift":
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieLoader.d"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieLoader.o"
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieLoader.swiftdeps"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieLoader.dia"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/Network/ImageLoader.swift":
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ImageLoader.swiftdeps"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ImageLoader.o"
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ImageLoader.d"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ImageLoader.dia"

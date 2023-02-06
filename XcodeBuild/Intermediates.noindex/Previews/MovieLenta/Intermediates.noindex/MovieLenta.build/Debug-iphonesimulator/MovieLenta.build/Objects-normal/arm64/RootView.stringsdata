@@ -1,0 +1,16 @@
+{
+  "source": "/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/RootView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Movies"
+      },
+      {
+        "comment": "",
+        "key": "Favorites"
+      }
+    ]
+  },
+  "version": 1
+}

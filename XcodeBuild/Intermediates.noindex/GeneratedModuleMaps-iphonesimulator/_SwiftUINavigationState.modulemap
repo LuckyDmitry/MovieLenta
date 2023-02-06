@@ -1,0 +1,4 @@
+module _SwiftUINavigationState {
+header "_SwiftUINavigationState-Swift.h"
+export *
+}

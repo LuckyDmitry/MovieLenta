@@ -1,0 +1,20 @@
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/UI/ViewState.swift":
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ViewState.swiftdeps"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ViewState.dia"
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ViewState.d"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/ViewState.o"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Base/Network/NetworkService.swift":
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/NetworkService.d"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/NetworkService.o"
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/NetworkService.swiftdeps"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/NetworkService.dia"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/MoviesList/MovieListView.swift":
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieListView.dia"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieListView.o"
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieListView.d"
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/MovieListView.swiftdeps"
+"/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/RootView.swift":
+  swift-dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/RootView.swiftdeps"
+  diagnostics: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/RootView.dia"
+  object: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/RootView.o"
+  dependencies: "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/RootView.d"

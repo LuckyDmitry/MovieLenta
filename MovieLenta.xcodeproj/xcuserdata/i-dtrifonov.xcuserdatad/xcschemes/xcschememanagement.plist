@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MovieLentaTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C629BAC3298CFF980006351E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C629BAD3298CFF9A0006351E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C629BADD298CFF9A0006351E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

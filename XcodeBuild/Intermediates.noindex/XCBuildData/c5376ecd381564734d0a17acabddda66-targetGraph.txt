@@ -1,0 +1,30 @@
+Target dependency graph (10 targets)
+XCTestDynamicOverlay in xctest-dynamic-overlay, no dependencies
+XCTestDynamicOverlay in xctest-dynamic-overlay, depends on:
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CustomDump in swift-custom-dump, depends on:
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CustomDump in swift-custom-dump, depends on:
+CustomDump in swift-custom-dump (explicit)
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+_SwiftUINavigationState in swiftui-navigation, depends on:
+CustomDump in swift-custom-dump (explicit)
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CasePaths in swift-case-paths, depends on:
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CasePaths in swift-case-paths, depends on:
+CasePaths in swift-case-paths (explicit)
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+SwiftUINavigation in swiftui-navigation, depends on:
+_SwiftUINavigationState in swiftui-navigation (explicit)
+CustomDump in swift-custom-dump (explicit)
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CasePaths in swift-case-paths (explicit)
+SwiftUINavigation in swiftui-navigation, depends on:
+SwiftUINavigation in swiftui-navigation (explicit)
+_SwiftUINavigationState in swiftui-navigation (explicit)
+CustomDump in swift-custom-dump (explicit)
+XCTestDynamicOverlay in xctest-dynamic-overlay (explicit)
+CasePaths in swift-case-paths (explicit)
+MovieLenta in MovieLenta, depends on:
+SwiftUINavigation in swiftui-navigation (explicit)

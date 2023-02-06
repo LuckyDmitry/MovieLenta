@@ -1,0 +1,16 @@
+{
+  "source": "/Users/i-dtrifonov/MyProjects/MovieLenta/XcodeBuild/Intermediates.noindex/Previews/MovieLenta/Intermediates.noindex/MovieLenta.build/Debug-iphonesimulator/MovieLenta.build/Objects-normal/arm64/SuggestView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Couldn't find anyting."
+      },
+      {
+        "comment": "",
+        "key": "Try searching again using a different spelling or keyword."
+      }
+    ]
+  },
+  "version": 1
+}

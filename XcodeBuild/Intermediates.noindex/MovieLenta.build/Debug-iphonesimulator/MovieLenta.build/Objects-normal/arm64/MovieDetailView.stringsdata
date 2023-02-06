@@ -1,0 +1,16 @@
+{
+  "source": "/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/MovieDetail/MovieDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Remove from favorites"
+      },
+      {
+        "comment": "",
+        "key": "Save to favorites"
+      }
+    ]
+  },
+  "version": 1
+}

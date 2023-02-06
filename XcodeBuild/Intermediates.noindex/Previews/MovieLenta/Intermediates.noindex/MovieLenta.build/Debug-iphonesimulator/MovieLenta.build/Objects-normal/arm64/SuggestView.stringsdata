@@ -1,0 +1,16 @@
+{
+  "source": "/Users/i-dtrifonov/MyProjects/MovieLenta/MovieLenta/Suggests/SuggestView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Couldn't find anyting."
+      },
+      {
+        "comment": "",
+        "key": "Try searching again using a different spelling or keyword."
+      }
+    ]
+  },
+  "version": 1
+}
